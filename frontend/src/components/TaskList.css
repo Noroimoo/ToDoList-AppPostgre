@@ -1,0 +1,32 @@
+
+.tasklist-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fafafa;
+    color: #333;
+    border-radius: 5px;
+  }
+  
+  .tasklist-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .tasklist-create-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 5px;
+    background-color: #94d0ff;
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .tasklist-create-link:hover {
+    background-color: #2196F3;
+  }
+  

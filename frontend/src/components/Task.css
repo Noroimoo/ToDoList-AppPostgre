@@ -1,0 +1,49 @@
+
+.task-container {
+    background-color: #fafafa; 
+    color: #222; 
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .task-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .task-description {
+    font-size: 16px;
+  }
+  
+  .task-status {
+    font-weight: bold;
+  }
+  
+  .task-button {
+    margin-top: 10px;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+  }
+  
+  .task-button-edit {
+    background-color: #94d0ff; 
+  }
+  
+  .task-button-edit:hover {
+    background-color: #2196F3;
+  }
+  
+  .task-button-delete {
+    background-color: #ff8eaa; 
+  }
+  
+  .task-button-delete:hover {
+    background-color: #ff1744;
+  }
+  
